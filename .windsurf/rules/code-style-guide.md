@@ -17,3 +17,4 @@ trigger: always_on
 - un orm prêt à l'emploi (Prisma)
 - (trouver une liste de base de données cloud gratuite)
 - quand je dis "intègre "nom_du_composant" en bem", tu dois comprendre d'utiliser la snippet /home/nihongo/Bureau/Next15.3.3/assets/scss/code.snippet pour créer un composant scss dans le bon dossier dans /home/nihongo/Bureau/Next15.3.3/assets/scss/components (exemple dossier CARDS si c'est un composant card).
+- si tu utilise une librairie tiers et package npm, ne présume jamais de son utilisation par défaut, vérifie toujours dans cette ordre: 1 comment est-ce actuellement utilisé dans la codebase, 2 si non trouvé, lancer des recherches (web) sur l'utilisation de la version actuellement utilisé de ce tiers.
